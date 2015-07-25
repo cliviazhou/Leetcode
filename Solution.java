@@ -1,15 +1,6 @@
-import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
-import oracle.jrockit.jfr.events.DynamicValueDescriptor;
-
-import java.io.*;
-import java.net.URLDecoder;
-import java.net.URLEncoder;
-import java.text.SimpleDateFormat;
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
-public class Main {
+public class Solution {
 
     public class TreeNode {
         int val;
